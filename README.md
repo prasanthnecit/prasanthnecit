@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Development Side**
 
-- 🌱 I’m currently learning **Java Frameworks - Springboot, Spring AI**
+- 🌱 I’m currently exploring **Java Backend Development**
 
-- 👯 I’m looking to collaborate on **Spring AI Projects**
+- 👯 I’m looking to collaborate on **SpringBoot Projects**
 
 - 💬 Ask me about **Development, Problem Solving**
 
