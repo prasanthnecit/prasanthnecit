@@ -1,116 +1,37 @@
-<h1 align="center">Hi 👋, I'm Prasanth M</h1>
+# Hi 👋, I'm Prasanth M
 
-<h3 align="center">Java Full Stack Developer</h3>
-
-
-
-<p align="center">
-
-&nbsp; <img src="https://komarev.com/ghpvc/?username=prasanthnecit\&label=Profile%20Views\&color=7f3fbf\&style=flat" />
-
-</p>
-
-
+### Java Full Stack Developer | Spring Boot Enthusiast
 
 ---
 
+## 👨‍💻 About Me
 
-
-\### 👨‍💻 About Me
-
-
-
-\- 🌱 Currently exploring \*\*Java Backend Development\*\*
-
-\- 👯 Open to collaborate on \*\*Spring Boot projects\*\*
-
-\- 💬 Ask me about \*\*Java, Spring Boot, REST APIs, Problem Solving\*\*
-
-\- 📫 Reach me at \*\*prasanthm1411@gmail.com\*\*
-
-
+- 🌱 Currently exploring **Java Backend Development**
+- 👯 Open to collaborate on **Spring Boot projects**
+- 💬 Ask me about **Java, Spring Boot, REST APIs, Problem Solving**
+- 📫 Reach me at **prasanthm1411@gmail.com**
 
 ---
 
+## 🔗 Connect with Me
 
-
-\### 🔗 Connect with Me
-
-
-
-<p align="left">
-
-&nbsp; <a href="https://linkedin.com/in/prasanthnecit">
-
-&nbsp;   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-
-&nbsp; </a>
-
-&nbsp; <a href="https://leetcode.com/prasanthnecit">
-
-&nbsp;   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode\_logo\_black.png" width="40"/>
-
-&nbsp; </a>
-
-</p>
-
-
+- LinkedIn: https://linkedin.com/in/prasanthnecit  
+- LeetCode: https://leetcode.com/prasanthnecit  
 
 ---
 
+## 🛠️ Languages & Tools
 
-
-\### 🛠 Languages \& Tools
-
-
-
-<p align="left">
-
-&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-
-&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45"/>
-
-&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-
-&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-
-&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-
-&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-
-</p>
-
-
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+![Spring](https://www.vectorlogo.zone/logos/springio/springio-icon.svg)
+![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
 
 ---
 
+## 📊 GitHub Stats
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthnecit&layout=compact)
 
-\### 📊 GitHub Stats
-
-
-
-<p align="center">
-
-&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=prasanthnecit\&show\_icons=true\&theme=radical" />
-
-</p>
-
-
-
-<p align="center">
-
-&nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanthnecit\&layout=compact\&theme=radical" />
-
-</p>
-
-
-
-<p align="center">
-
-&nbsp; <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasanthnecit\&theme=radical" />
-
-</p>
-
-
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prasanthnecit)
