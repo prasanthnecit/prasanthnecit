@@ -1,6 +1,6 @@
 # Hi 👋, I'm Prasanth M
 
-### Java Backend Developer | Spring Boot Enthusiast
+### Java Fullstack Developer
 
 ---
 
@@ -31,12 +31,12 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br/>Java</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/><br/>Spring Boot</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/><br/>HTML</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/><br/>CSS</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/><br/>Git</td>
-  </tr>
+  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/><br/>Java</td>
+  <td align="center"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/><br/>Spring Boot</td>
+  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/><br/>React</td>
+  <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/><br/>Git</td>
+</tr>
+
 </table>
 
 ---
